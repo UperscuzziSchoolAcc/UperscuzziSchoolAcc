@@ -3,4 +3,4 @@
 #### Try checking out some of my repositories, I made a coding language for kids called "KidsLang". I also made a Python import to make HTML with functions
 [![Stats](https://github-readme-stats.vercel.app/api?username=UperscuzziSchoolAcc&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UperscuzziSchoolAcc&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-###### I believe in open-source and free software for all, all my projects can be used in any open source project.
+###### I believe in open-source and free software for all, all my projects can be used in any open source project. (I would like a *little* credit of course)
